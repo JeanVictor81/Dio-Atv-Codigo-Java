@@ -7,5 +7,9 @@ public class AppAtv1 {
 		Calculadora2.multiplicacao(5, 10);
 		Calculadora2.divisao(144, 12);
 		
+		
+		Emprestimo.calcular(1000, Emprestimo.getDuasParcelas());
+		
 	}
+	
 }
